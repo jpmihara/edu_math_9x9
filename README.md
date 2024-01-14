@@ -1,2 +1,2 @@
-# edu_math_9x9
-9x9 web application
+# edu_math_keisan
+keisan webapps
